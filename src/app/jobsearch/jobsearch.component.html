@@ -1,0 +1,62 @@
+<br>
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-4">
+    <select class="form-control" #rolename>
+      <option>Choose Role</option>
+      <option *ngFor="let role of item1" value="{{role.seoname}}">Jobs in {{role.designation_name}}</option>
+    </select>
+  </div>
+  <div class="col-md-4">
+      <select class="form-control" #cityname>
+        <option>Choose City</option>
+        <option *ngFor="let city of citylist" value="{{city.search_name}}">Jobs in {{city.name}}</option>
+      </select>
+  </div>
+   <div class="col-md-2">
+    <button class="btn btn-primary" (click)="searchJob(rolename.value,cityname.value)">Search</button>
+  </div>
+  <div class="col-md-1"></div>
+</div>
+<br><br>
+<div class="row">
+    <div class="col-md-3">
+      <ul class="list-group"  style="overflow: auto;height: 400px;">
+          <li class="list-group-item" *ngFor="let xitem of item1">
+            <a href="javascript:void(0)" (click)="searchByRole(xitem.seoname)">{{xitem.designation_name}}</a>
+          </li>
+      </ul>
+    </div>
+    <div class="col-md-9">
+
+        <div class="row">
+          <div class="col-md-8"><br><br>
+              <p class="text-center text-info">Matching Results - {{joblist.length}}</p>
+           </div>
+           <div class="col-md-4">
+              <label>Quick Search</label>
+              <input type="text" placeholder="Search Here..." class="form-control input-sm" >
+            </div> 
+        </div>
+        
+        <div class="media" *ngFor="let row of joblist">
+              <div class="media-body">
+                <h5 class="text-info">{{row.companyname}}</h5>
+                <h6 class="media-heading">{{row.jobtitle}}</h6>
+                <p>{{row.jobdescription}}</p>
+                <p>Total Exp - {{row.experience}}</p>
+                <p>Salary - {{row.salary}}</p>
+                <p>Total Position - {{row.vacancies}}</p>
+                <button class="btn btn-primary btn-sm" (click)="getjobdetails(row.getjd)">View More</button>
+              </div>             
+          </div>
+       </div><!-- 9 end -->
+  </div>
+
+<!-- https://www.firstenquiry.com/api/getkeyword -->
+<!--
+  httpModule(app.component.ts)
+  httpClientModule(app.component.ts)
+  httpclient(component.ts)
+-->
+

@@ -1,0 +1,107 @@
+[
+    {
+       "id":"17",
+       "name":"Mysore",
+       "search_name":"jobs-in-Mysore",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"16",
+       "name":"Bhubaneswar",
+       "search_name":"jobs-in-Bhubaneswar",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"15",
+       "name":"Patna",
+       "search_name":"jobs-in-Patna",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"14",
+       "name":"Kolkata",
+       "search_name":"jobs-in-Kolkata",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"13",
+       "name":"Kochi",
+       "search_name":"jobs-in-Kochi",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"11",
+       "name":"Mohali",
+       "search_name":"jobs-in-Mohali",
+       "active":"No",
+       "createddate":"2013-05-25 11:33:38"
+    },
+    {
+       "id":"10",
+       "name":"Ahmedabad",
+       "search_name":"jobs-in-Ahmedabad",
+       "active":"No",
+       "createddate":"2013-05-25 11:32:25"
+    },
+    {
+       "id":"9",
+       "name":"Delhi",
+       "search_name":"jobs-in-Delhi",
+       "active":"Yes",
+       "createddate":"2013-05-25 11:32:25"
+    },
+    {
+       "id":"8",
+       "name":"Pune",
+       "search_name":"jobs-in-Pune",
+       "active":"Yes",
+       "createddate":"2013-05-25 11:31:53"
+    },
+    {
+       "id":"7",
+       "name":"Hyderabad",
+       "search_name":"jobs-in-Hyderabad",
+       "active":"Yes",
+       "createddate":"2013-05-25 11:31:53"
+    },
+    {
+       "id":"5",
+       "name":"Noida",
+       "search_name":"Jobs-in-Noida",
+       "active":"No",
+       "createddate":"2013-05-25 11:31:33"
+    },
+    {
+       "id":"4",
+       "name":"Gurgaon",
+       "search_name":"Jobs-in-Gurgaon",
+       "active":"No",
+       "createddate":"2013-05-25 11:31:16"
+    },
+    {
+       "id":"3",
+       "name":"Chennai",
+       "search_name":"Jobs-in-Chennai",
+       "active":"Yes",
+       "createddate":"2013-05-25 11:31:16"
+    },
+    {
+       "id":"2",
+       "name":"Mumbai",
+       "search_name":"Jobs-in-Mumbai",
+       "active":"No",
+       "createddate":"2013-05-25 11:30:57"
+    },
+    {
+       "id":"1",
+       "name":"Bangalore",
+       "search_name":"jobs-in-Bangalore",
+       "active":"Yes",
+       "createddate":"2013-05-25 11:30:57"
+    }
+ ]

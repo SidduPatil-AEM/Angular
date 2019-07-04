@@ -1,0 +1,4209 @@
+[
+    {
+       "designation_id":"354",
+       "designation_name":"2D Animator",
+       "seoname":"2D-Animator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"400",
+       "designation_name":"2D Flash Animator",
+       "seoname":"2D-Flash-Animator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"267",
+       "designation_name":"3D Animator",
+       "seoname":"3D-Animator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"192",
+       "designation_name":"3D Artist",
+       "seoname":"3D-Artist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"268",
+       "designation_name":"3D Designer",
+       "seoname":"3D-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"401",
+       "designation_name":"3D Graphic Designer",
+       "seoname":"3D-Graphic-Designer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"402",
+       "designation_name":"3D Interior Designer",
+       "seoname":"3D-Interior-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"290",
+       "designation_name":"3D Modeler",
+       "seoname":"3D-Modeler",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"291",
+       "designation_name":"3D Visualiser",
+       "seoname":"3D-Visualiser",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"121",
+       "designation_name":"3D Visualizer",
+       "seoname":"3D-Visualizer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"403",
+       "designation_name":"ABAP Programmer",
+       "seoname":"ABAP-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"8",
+       "designation_name":"Accountant",
+       "seoname":"Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"554",
+       "designation_name":"Accounts Director",
+       "seoname":"Accounts-Director",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"193",
+       "designation_name":"Accounts Executive",
+       "seoname":"Accounts-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"555",
+       "designation_name":"Accounts Head",
+       "seoname":"Accounts-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"292",
+       "designation_name":"Accounts Manager",
+       "seoname":"Accounts-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"269",
+       "designation_name":"Accounts Officer",
+       "seoname":"Accounts-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"404",
+       "designation_name":"Accounts Trainee",
+       "seoname":"Accounts-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"405",
+       "designation_name":"Administration Manager",
+       "seoname":"Administration-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"194",
+       "designation_name":"Administrative Assistant",
+       "seoname":"Administrative-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"159",
+       "designation_name":"Administrative Officer",
+       "seoname":"Administrative-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"322",
+       "designation_name":"Administrator",
+       "seoname":"Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"27",
+       "designation_name":"Air Hostess",
+       "seoname":"Air-Hostess",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"270",
+       "designation_name":"Aircraft Maintenance Engineer",
+       "seoname":"Aircraft-Maintenance-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"69",
+       "designation_name":"Aircraft Maintenance Technician",
+       "seoname":"Aircraft-Maintenance-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"56",
+       "designation_name":"Analyst",
+       "seoname":"Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"406",
+       "designation_name":"Application Developer",
+       "seoname":"Application-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"122",
+       "designation_name":"Application Engineer",
+       "seoname":"Application-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"100",
+       "designation_name":"Architect",
+       "seoname":"Architect",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"407",
+       "designation_name":"Area Business Manager",
+       "seoname":"Area-Business-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"160",
+       "designation_name":"Area Manager",
+       "seoname":"Area-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"229",
+       "designation_name":"Area Sales Manager",
+       "seoname":"Area-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"556",
+       "designation_name":"Area Sales Officer",
+       "seoname":"Area-Sales-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"412",
+       "designation_name":"Assistant Accounts Manager",
+       "seoname":"Assistant-Accounts-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"408",
+       "designation_name":"Assistant Audit Manager",
+       "seoname":"Assistant-Audit-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"409",
+       "designation_name":"Assistant Branch Manager",
+       "seoname":"Assistant-Branch-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"355",
+       "designation_name":"Assistant Brand Manager",
+       "seoname":"Assistant-Brand-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"271",
+       "designation_name":"Assistant Company Secretary",
+       "seoname":"Assistant-Company-Secretary",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"57",
+       "designation_name":"Assistant Director",
+       "seoname":"Assistant-Director",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"79",
+       "designation_name":"Assistant Engineer",
+       "seoname":"Assistant-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"410",
+       "designation_name":"Assistant Finance Manager",
+       "seoname":"Assistant-Finance-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"230",
+       "designation_name":"Assistant Front Office Manager",
+       "seoname":"Assistant-Front-Office-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"411",
+       "designation_name":"Assistant General Manager",
+       "seoname":"Assistant-General-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"161",
+       "designation_name":"Assistant Librarian",
+       "seoname":"Assistant-Librarian",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"101",
+       "designation_name":"Assistant Manager",
+       "seoname":"Assistant-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"557",
+       "designation_name":"Assistant Manager Accounts & Finance",
+       "seoname":"Assistant-Manager-Accounts-Finance",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"413",
+       "designation_name":"Assistant Manager Business Development",
+       "seoname":"Assistant-Manager-Business-Development",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"414",
+       "designation_name":"Assistant Manager Finance",
+       "seoname":"Assistant-Manager-Finance",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"558",
+       "designation_name":"Assistant Manager Human Resources",
+       "seoname":"Assistant-Manager-Human-Resources",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"415",
+       "designation_name":"Assistant Manager Legal",
+       "seoname":"Assistant-Manager-Legal",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"416",
+       "designation_name":"Assistant Manager Marketing",
+       "seoname":"Assistant-Manager-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"559",
+       "designation_name":"Assistant Manager Sales & Marketing",
+       "seoname":"Assistant-Manager-Sales-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"417",
+       "designation_name":"Assistant Network Administrator",
+       "seoname":"Assistant-Network-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"418",
+       "designation_name":"Assistant Network Engineer",
+       "seoname":"Assistant-Network-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"419",
+       "designation_name":"Assistant Product Manager",
+       "seoname":"Assistant-Product-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"1",
+       "designation_name":"Assistant Professor",
+       "seoname":"Assistant-Professor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"420",
+       "designation_name":"Assistant Project Engineer",
+       "seoname":"Assistant-Project-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"421",
+       "designation_name":"Assistant Sales Manager",
+       "seoname":"Assistant-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"560",
+       "designation_name":"Assistant Software Developer",
+       "seoname":"Assistant-Software-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"422",
+       "designation_name":"Assistant Software Engineer",
+       "seoname":"Assistant-Software-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"423",
+       "designation_name":"Assistant System Administrator",
+       "seoname":"Assistant-System-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"123",
+       "designation_name":"Associate Professor",
+       "seoname":"Associate-Professor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"356",
+       "designation_name":"Associate Project Manager",
+       "seoname":"Associate-Project-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"231",
+       "designation_name":"Associate Software Engineer",
+       "seoname":"Associate-Software-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"424",
+       "designation_name":"Audit Manager",
+       "seoname":"Audit-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"272",
+       "designation_name":"Auto CAD Operator",
+       "seoname":"Auto-CAD-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"357",
+       "designation_name":"AutoCAD Designer",
+       "seoname":"AutoCAD-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"273",
+       "designation_name":"AutoCAD Draftsman",
+       "seoname":"AutoCAD-Draftsman",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"358",
+       "designation_name":"AutoCAD Engineer",
+       "seoname":"AutoCAD-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"124",
+       "designation_name":"Automation Engineer",
+       "seoname":"Automation-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"162",
+       "designation_name":"Biomedical Engineer",
+       "seoname":"Biomedical-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"274",
+       "designation_name":"Blood Bank Technician",
+       "seoname":"Blood-Bank-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"561",
+       "designation_name":"Branch Incharge",
+       "seoname":"Branch-Incharge",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"195",
+       "designation_name":"Branch Manager",
+       "seoname":"Branch-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"562",
+       "designation_name":"Branch Sales Manager",
+       "seoname":"Branch-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"3",
+       "designation_name":"Business Analyst",
+       "seoname":"Business-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"323",
+       "designation_name":"Business Consultant",
+       "seoname":"Business-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"196",
+       "designation_name":"Business Development Executive",
+       "seoname":"Business-Development-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"125",
+       "designation_name":"Business Development Manager",
+       "seoname":"Business-Development-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"425",
+       "designation_name":"Business Development Officer",
+       "seoname":"Business-Development-Officer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"426",
+       "designation_name":"Business Head",
+       "seoname":"Business-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"197",
+       "designation_name":"CAD Designer",
+       "seoname":"CAD-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"163",
+       "designation_name":"CAD Draftsman",
+       "seoname":"CAD-Draftsman",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"232",
+       "designation_name":"CAD Engineer",
+       "seoname":"CAD-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"198",
+       "designation_name":"CAD Operator",
+       "seoname":"CAD-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"164",
+       "designation_name":"CEO",
+       "seoname":"CEO",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"427",
+       "designation_name":"Channel Sales Manager",
+       "seoname":"Channel-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"15",
+       "designation_name":"Chartered Accountant",
+       "seoname":"Chartered-Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"102",
+       "designation_name":"Chemical Engineer",
+       "seoname":"Chemical-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"563",
+       "designation_name":"Chief Accounts Officer",
+       "seoname":"Chief-Accounts-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"428",
+       "designation_name":"Chief Administrative Officer",
+       "seoname":"Chief-Administrative-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"429",
+       "designation_name":"Chief Executive Officer",
+       "seoname":"Chief-Executive-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"430",
+       "designation_name":"Chief Finance Officer",
+       "seoname":"Chief-Finance-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"359",
+       "designation_name":"Chief Financial Officer",
+       "seoname":"Chief-Financial-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"431",
+       "designation_name":"Chief Marketing Officer",
+       "seoname":"Chief-Marketing-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"324",
+       "designation_name":"Chief Medical Officer",
+       "seoname":"Chief-Medical-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"199",
+       "designation_name":"Chief Security Officer",
+       "seoname":"Chief-Security-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"28",
+       "designation_name":"Civil Engineer",
+       "seoname":"Civil-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"80",
+       "designation_name":"Civil Supervisor",
+       "seoname":"Civil-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"21",
+       "designation_name":"Clerk",
+       "seoname":"Clerk",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"200",
+       "designation_name":"Clinical Research Associate",
+       "seoname":"Clinical-Research-Associate",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"275",
+       "designation_name":"Clinical Research Coordinator",
+       "seoname":"Clinical-Research-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"70",
+       "designation_name":"CNC Operator",
+       "seoname":"CNC-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"201",
+       "designation_name":"CNC Programmer",
+       "seoname":"CNC-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"432",
+       "designation_name":"Cobol Developer",
+       "seoname":"Cobol-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"602",
+       "designation_name":"Codeigniter Developer",
+       "seoname":"Codeigniter-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"433",
+       "designation_name":"Collection Officer",
+       "seoname":"Collection-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"5",
+       "designation_name":"Company Secretary",
+       "seoname":"Company-Secretary",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"360",
+       "designation_name":"Computer Administrator",
+       "seoname":"Computer-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"233",
+       "designation_name":"Computer Engineer",
+       "seoname":"Computer-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"234",
+       "designation_name":"Computer Hardware Engineer",
+       "seoname":"Computer-Hardware-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"4",
+       "designation_name":"Computer Operator",
+       "seoname":"Computer-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"36",
+       "designation_name":"Computer Teacher",
+       "seoname":"Computer-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"202",
+       "designation_name":"Computer Technician",
+       "seoname":"Computer-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"361",
+       "designation_name":"Construction Manager",
+       "seoname":"Construction-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"203",
+       "designation_name":"Construction Supervisor",
+       "seoname":"Construction-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"24",
+       "designation_name":"Consultant",
+       "seoname":"Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"126",
+       "designation_name":"Content Developer",
+       "seoname":"Content-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"434",
+       "designation_name":"Content Development Manager",
+       "seoname":"Content-Development-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"325",
+       "designation_name":"Content Editor",
+       "seoname":"Content-Editor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"435",
+       "designation_name":"Content Head",
+       "seoname":"Content-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"362",
+       "designation_name":"Content Manager",
+       "seoname":"Content-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"44",
+       "designation_name":"Content Writer",
+       "seoname":"Content-Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"127",
+       "designation_name":"Coordinator",
+       "seoname":"Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"128",
+       "designation_name":"Copywriter",
+       "seoname":"Copywriter",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"165",
+       "designation_name":"Corporate Trainer",
+       "seoname":"Corporate-Trainer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"129",
+       "designation_name":"Cost Accountant",
+       "seoname":"Cost-Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"103",
+       "designation_name":"Counsellor",
+       "seoname":"Counsellor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"130",
+       "designation_name":"Credit Analyst",
+       "seoname":"Credit-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"166",
+       "designation_name":"Credit Manager",
+       "seoname":"Credit-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"363",
+       "designation_name":"CRM Executive",
+       "seoname":"CRM-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"235",
+       "designation_name":"Customer Care Executive",
+       "seoname":"Customer-Care-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"326",
+       "designation_name":"Customer Relationship Manager",
+       "seoname":"Customer-Relationship-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"364",
+       "designation_name":"Customer Support Engineer",
+       "seoname":"Customer-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"436",
+       "designation_name":"Customer Support Executive",
+       "seoname":"Customer-Support-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"437",
+       "designation_name":"Data Administrator",
+       "seoname":"Data-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"29",
+       "designation_name":"Data Analyst",
+       "seoname":"Data-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"45",
+       "designation_name":"Data Entry Operator",
+       "seoname":"Data-Entry-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"293",
+       "designation_name":"Data Operator",
+       "seoname":"Data-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"81",
+       "designation_name":"Database Administrator",
+       "seoname":"Database-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"438",
+       "designation_name":"Database Manager",
+       "seoname":"Database-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"565",
+       "designation_name":"Deputy Manager Finance",
+       "seoname":"Deputy-Manager-Finance",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"564",
+       "designation_name":"Deputy Manager Finance Accounts",
+       "seoname":"Deputy-Manager-Finance-Accounts",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"566",
+       "designation_name":"Deputy Manager Marketing",
+       "seoname":"Deputy-Manager-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"567",
+       "designation_name":"Deputy Manager Sales",
+       "seoname":"Deputy-Manager-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"365",
+       "designation_name":"Design Manager",
+       "seoname":"Design-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"167",
+       "designation_name":"Designer",
+       "seoname":"Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"82",
+       "designation_name":"Desktop Engineer",
+       "seoname":"Desktop-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"58",
+       "designation_name":"Desktop Support Engineer",
+       "seoname":"Desktop-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"168",
+       "designation_name":"Dialysis Technician",
+       "seoname":"Dialysis-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"366",
+       "designation_name":"Dietician",
+       "seoname":"Dietician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"439",
+       "designation_name":"Director Finance",
+       "seoname":"Director-Finance",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"440",
+       "designation_name":"Director Human Resources",
+       "seoname":"Director-Human-Resources",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"441",
+       "designation_name":"Director Marketing",
+       "seoname":"Director-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"442",
+       "designation_name":"Director Sales",
+       "seoname":"Director-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"204",
+       "designation_name":"Dot Net Developer",
+       "seoname":"Dot-Net-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"443",
+       "designation_name":"Dot Net Programmer",
+       "seoname":"Dot-Net-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"131",
+       "designation_name":"DTP Operator",
+       "seoname":"DTP-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"205",
+       "designation_name":"Editor",
+       "seoname":"Editor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"327",
+       "designation_name":"EDP Manager",
+       "seoname":"EDP-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"46",
+       "designation_name":"Electrical Design Engineer",
+       "seoname":"Electrical-Design-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"37",
+       "designation_name":"Electrical Engineer",
+       "seoname":"Electrical-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"367",
+       "designation_name":"Electrical Engineer Trainee",
+       "seoname":"Electrical-Engineer-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"206",
+       "designation_name":"Electrical Maintenance Engineer",
+       "seoname":"Electrical-Maintenance-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"276",
+       "designation_name":"Electrical Project Engineer",
+       "seoname":"Electrical-Project-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"207",
+       "designation_name":"Electrical Site Engineer",
+       "seoname":"Electrical-Site-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"208",
+       "designation_name":"Electrical Supervisor",
+       "seoname":"Electrical-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"132",
+       "designation_name":"Electrical Technician",
+       "seoname":"Electrical-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"47",
+       "designation_name":"Electrician",
+       "seoname":"Electrician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"133",
+       "designation_name":"Electronics Engineer",
+       "seoname":"Electronics-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"294",
+       "designation_name":"Embedded Developer",
+       "seoname":"Embedded-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"236",
+       "designation_name":"Embedded Engineer",
+       "seoname":"Embedded-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"368",
+       "designation_name":"Embedded Hardware Engineer",
+       "seoname":"Embedded-Hardware-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"237",
+       "designation_name":"Embedded Software Engineer",
+       "seoname":"Embedded-Software-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"328",
+       "designation_name":"Embedded Systems Engineer",
+       "seoname":"Embedded-Systems-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"277",
+       "designation_name":"Embroidery Designer",
+       "seoname":"Embroidery-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"59",
+       "designation_name":"Engineer",
+       "seoname":"Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"295",
+       "designation_name":"Engineer Trainee",
+       "seoname":"Engineer-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"353",
+       "designation_name":"engineering manager",
+       "seoname":"engineering-manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"169",
+       "designation_name":"English Teacher",
+       "seoname":"English-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"71",
+       "designation_name":"Equity Research Analyst",
+       "seoname":"Equity-Research-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"296",
+       "designation_name":"Erp Consultant",
+       "seoname":"Erp-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"444",
+       "designation_name":"ERP Developer",
+       "seoname":"ERP-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"297",
+       "designation_name":"erp Functional Consultant",
+       "seoname":"erp-Functional-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"369",
+       "designation_name":"ERP Manager",
+       "seoname":"ERP-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"238",
+       "designation_name":"Event Coordinator",
+       "seoname":"Event-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"298",
+       "designation_name":"Event Manager",
+       "seoname":"Event-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"370",
+       "designation_name":"Executive Engineer",
+       "seoname":"Executive-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"445",
+       "designation_name":"Executive Marketing",
+       "seoname":"Executive-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"446",
+       "designation_name":"Export Import Manager",
+       "seoname":"Export-Import-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"329",
+       "designation_name":"Export Manager",
+       "seoname":"Export-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"83",
+       "designation_name":"Fashion Designer",
+       "seoname":"Fashion-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"239",
+       "designation_name":"Field Officer",
+       "seoname":"Field-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"447",
+       "designation_name":"Field Sales Manager",
+       "seoname":"Field-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"209",
+       "designation_name":"Finance Analyst",
+       "seoname":"Finance-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"448",
+       "designation_name":"Finance Director",
+       "seoname":"Finance-Director",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"170",
+       "designation_name":"Finance Executive",
+       "seoname":"Finance-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"449",
+       "designation_name":"Finance Head",
+       "seoname":"Finance-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"240",
+       "designation_name":"Finance Manager",
+       "seoname":"Finance-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"450",
+       "designation_name":"Finance Officer",
+       "seoname":"Finance-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"330",
+       "designation_name":"Finance Trainee",
+       "seoname":"Finance-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"371",
+       "designation_name":"Financial Advisor",
+       "seoname":"Financial-Advisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"48",
+       "designation_name":"Financial Analyst",
+       "seoname":"Financial-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"451",
+       "designation_name":"Financial Executive",
+       "seoname":"Financial-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"452",
+       "designation_name":"Financial Officer",
+       "seoname":"Financial-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"171",
+       "designation_name":"Fire Officer",
+       "seoname":"Fire-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"372",
+       "designation_name":"Flash Animator",
+       "seoname":"Flash-Animator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"453",
+       "designation_name":"Flash Designer",
+       "seoname":"Flash-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"299",
+       "designation_name":"Flash Developer",
+       "seoname":"Flash-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"454",
+       "designation_name":"Flash Programmer",
+       "seoname":"Flash-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"210",
+       "designation_name":"Food Technologist",
+       "seoname":"Food-Technologist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"241",
+       "designation_name":"Freelance Content Writer",
+       "seoname":"Freelance-Content-Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"242",
+       "designation_name":"Freelance Fashion Designer",
+       "seoname":"Freelance-Fashion-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"172",
+       "designation_name":"Freelance Web Designer",
+       "seoname":"Freelance-Web-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"134",
+       "designation_name":"Freelance Writer",
+       "seoname":"Freelance-Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"22",
+       "designation_name":"Freelancer",
+       "seoname":"Freelancer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"243",
+       "designation_name":"Front Office Executive",
+       "seoname":"Front-Office-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"211",
+       "designation_name":"Front Office Manager",
+       "seoname":"Front-Office-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"104",
+       "designation_name":"Game Tester",
+       "seoname":"Game-Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"173",
+       "designation_name":"General Manager",
+       "seoname":"General-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"455",
+       "designation_name":"General Manager Administration",
+       "seoname":"General-Manager-Administration",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"456",
+       "designation_name":"General Manager Business Development",
+       "seoname":"General-Manager-Business-Development",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"457",
+       "designation_name":"General Manager Engineering",
+       "seoname":"General-Manager-Engineering",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"568",
+       "designation_name":"General Manager Finance & Accounts",
+       "seoname":"General-Manager-Finance-Accounts",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"458",
+       "designation_name":"General Manager Human Resources",
+       "seoname":"General-Manager-Human-Resources",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"569",
+       "designation_name":"General Manager Information Technology",
+       "seoname":"General-Manager-Information-Technology",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"459",
+       "designation_name":"General Manager Manufacturing",
+       "seoname":"General-Manager-Manufacturing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"460",
+       "designation_name":"General Manager Marketing",
+       "seoname":"General-Manager-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"570",
+       "designation_name":"General Manager Marketing & Sales",
+       "seoname":"General-Manager-Marketing-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"461",
+       "designation_name":"General Manager Operations",
+       "seoname":"General-Manager-Operations",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"462",
+       "designation_name":"General Manager Production",
+       "seoname":"General-Manager-Production",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"463",
+       "designation_name":"General Manager Sales",
+       "seoname":"General-Manager-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"331",
+       "designation_name":"GIS Analyst",
+       "seoname":"GIS-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"332",
+       "designation_name":"GIS Engineer",
+       "seoname":"GIS-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"464",
+       "designation_name":"GIS Specialist",
+       "seoname":"GIS-Specialist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"465",
+       "designation_name":"GIS Trainee",
+       "seoname":"GIS-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"552",
+       "designation_name":"gm sales",
+       "seoname":"gm-sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"6",
+       "designation_name":"Graphic Designer",
+       "seoname":"Graphic-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"244",
+       "designation_name":"Guest Faculty",
+       "seoname":"Guest-Faculty",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"84",
+       "designation_name":"Guest Lecturer",
+       "seoname":"Guest-Lecturer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"212",
+       "designation_name":"Hardware Design Engineer",
+       "seoname":"Hardware-Design-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"135",
+       "designation_name":"Hardware Engineer",
+       "seoname":"Hardware-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"571",
+       "designation_name":"Hardware Support Engineer",
+       "seoname":"Hardware-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"373",
+       "designation_name":"Head Administration",
+       "seoname":"Head-Administration",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"466",
+       "designation_name":"Head Legal",
+       "seoname":"Head-Legal",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"467",
+       "designation_name":"Head Sales",
+       "seoname":"Head-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"245",
+       "designation_name":"Hospital Administrator",
+       "seoname":"Hospital-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"174",
+       "designation_name":"Hospital Pharmacist",
+       "seoname":"Hospital-Pharmacist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"246",
+       "designation_name":"Hotel Manager",
+       "seoname":"Hotel-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"136",
+       "designation_name":"Housekeeping Supervisor",
+       "seoname":"Housekeeping-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"278",
+       "designation_name":"HR Assistant",
+       "seoname":"HR-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"374",
+       "designation_name":"HR Consultant",
+       "seoname":"HR-Consultant",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"38",
+       "designation_name":"HR Executive",
+       "seoname":"HR-Executive",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"572",
+       "designation_name":"HR Executive Trainee",
+       "seoname":"HR-Executive-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"333",
+       "designation_name":"HR Head",
+       "seoname":"HR-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"105",
+       "designation_name":"HR Manager",
+       "seoname":"HR-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"137",
+       "designation_name":"HR Recruiter",
+       "seoname":"HR-Recruiter",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"247",
+       "designation_name":"HR Trainee",
+       "seoname":"HR-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"279",
+       "designation_name":"HTML Developer",
+       "seoname":"HTML-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"468",
+       "designation_name":"HTML Programmer",
+       "seoname":"HTML-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"213",
+       "designation_name":"HVAC Design Engineer",
+       "seoname":"HVAC-Design-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"300",
+       "designation_name":"HVAC Supervisor",
+       "seoname":"HVAC-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"301",
+       "designation_name":"Industrial Engineer",
+       "seoname":"Industrial-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"469",
+       "designation_name":"Information Technology Manager",
+       "seoname":"Information-Technology-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"470",
+       "designation_name":"Information Technology Officer",
+       "seoname":"Information-Technology-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"280",
+       "designation_name":"Inspection Engineer",
+       "seoname":"Inspection-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"138",
+       "designation_name":"Instructional Designer",
+       "seoname":"Instructional-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"39",
+       "designation_name":"Instrumentation Engineer",
+       "seoname":"Instrumentation-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"175",
+       "designation_name":"Interior Designer",
+       "seoname":"Interior-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"302",
+       "designation_name":"Intern",
+       "seoname":"Intern",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"281",
+       "designation_name":"Internal Auditor",
+       "seoname":"Internal-Auditor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"471",
+       "designation_name":"International Marketing Executive",
+       "seoname":"International-Marketing-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"472",
+       "designation_name":"International Marketing Manager",
+       "seoname":"International-Marketing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"282",
+       "designation_name":"IT Head",
+       "seoname":"IT-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"473",
+       "designation_name":"J2EE Developer",
+       "seoname":"J2EE-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"573",
+       "designation_name":"J2EE Programmer",
+       "seoname":"J2EE-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"574",
+       "designation_name":"J2ME Developer",
+       "seoname":"J2ME-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"575",
+       "designation_name":"J2ME Mobile Application",
+       "seoname":"J2ME-Mobile-Application",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"49",
+       "designation_name":"Java Developer",
+       "seoname":"Java-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"303",
+       "designation_name":"Java Programmer",
+       "seoname":"Java-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"375",
+       "designation_name":"Java Trainee",
+       "seoname":"Java-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"474",
+       "designation_name":"Java\/J2EE Developer",
+       "seoname":"Java-J2EE-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"283",
+       "designation_name":"Journalist",
+       "seoname":"Journalist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"85",
+       "designation_name":"Junior Accountant",
+       "seoname":"Junior-Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"106",
+       "designation_name":"Junior Assistant",
+       "seoname":"Junior-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"376",
+       "designation_name":"Junior Civil Engineer",
+       "seoname":"Junior-Civil-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"214",
+       "designation_name":"Junior Engineer",
+       "seoname":"Junior-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"304",
+       "designation_name":"Junior Software Developer",
+       "seoname":"Junior-Software-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"475",
+       "designation_name":"Junior System Engineer",
+       "seoname":"Junior-System-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"7",
+       "designation_name":"Lab Technician",
+       "seoname":"Lab-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"215",
+       "designation_name":"Law Officer",
+       "seoname":"Law-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"2",
+       "designation_name":"Lecturer",
+       "seoname":"Lecturer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"60",
+       "designation_name":"Legal Advisor",
+       "seoname":"Legal-Advisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"334",
+       "designation_name":"Legal Executive",
+       "seoname":"Legal-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"335",
+       "designation_name":"Legal Manager",
+       "seoname":"Legal-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"139",
+       "designation_name":"Legal Officer",
+       "seoname":"Legal-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"9",
+       "designation_name":"Librarian",
+       "seoname":"Librarian",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"72",
+       "designation_name":"Library Assistant",
+       "seoname":"Library-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"476",
+       "designation_name":"Link Builder",
+       "seoname":"Link-Builder",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"107",
+       "designation_name":"Linux Administrator",
+       "seoname":"Linux-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"140",
+       "designation_name":"Linux System Administrator",
+       "seoname":"Linux-System-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"284",
+       "designation_name":"Mainframe Developer",
+       "seoname":"Mainframe-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"86",
+       "designation_name":"Maintenance Engineer",
+       "seoname":"Maintenance-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"141",
+       "designation_name":"Management Faculty",
+       "seoname":"Management-Faculty",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"16",
+       "designation_name":"Management Trainee",
+       "seoname":"Management-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"336",
+       "designation_name":"Manual Tester",
+       "seoname":"Manual-Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"176",
+       "designation_name":"Market Research Analyst",
+       "seoname":"Market-Research-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"477",
+       "designation_name":"Marketing Director",
+       "seoname":"Marketing-Director",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"478",
+       "designation_name":"Marketing Head",
+       "seoname":"Marketing-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"177",
+       "designation_name":"Marketing Manager",
+       "seoname":"Marketing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"40",
+       "designation_name":"Mechanical Engineer",
+       "seoname":"Mechanical-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"248",
+       "designation_name":"Medical Advisor",
+       "seoname":"Medical-Advisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"249",
+       "designation_name":"Medical Assistant",
+       "seoname":"Medical-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"30",
+       "designation_name":"Medical Lab Technician",
+       "seoname":"Medical-Lab-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"17",
+       "designation_name":"Medical Officer",
+       "seoname":"Medical-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"10",
+       "designation_name":"Medical Representative",
+       "seoname":"Medical-Representative",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"250",
+       "designation_name":"Medical Transcriptionist",
+       "seoname":"Medical-Transcriptionist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"61",
+       "designation_name":"Merchandiser",
+       "seoname":"Merchandiser",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"305",
+       "designation_name":"MIS Analyst",
+       "seoname":"MIS-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"306",
+       "designation_name":"MIS Coordinator",
+       "seoname":"MIS-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"142",
+       "designation_name":"MIS Executive",
+       "seoname":"MIS-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"337",
+       "designation_name":"MIS Manager",
+       "seoname":"MIS-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"377",
+       "designation_name":"MIS Officer",
+       "seoname":"MIS-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"338",
+       "designation_name":"Mobile Application Developer",
+       "seoname":"Mobile-Application-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"479",
+       "designation_name":"Mobile Game Developer",
+       "seoname":"Mobile-Game-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"480",
+       "designation_name":"Mobile Software Engineer",
+       "seoname":"Mobile-Software-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"216",
+       "designation_name":"Mobile Technician",
+       "seoname":"Mobile-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"481",
+       "designation_name":"Mobile Test Engineer",
+       "seoname":"Mobile-Test-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"143",
+       "designation_name":"Music Teacher",
+       "seoname":"Music-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"482",
+       "designation_name":"National Sales Manager",
+       "seoname":"National-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"108",
+       "designation_name":"NDT Technician",
+       "seoname":"NDT-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"62",
+       "designation_name":"Network Administrator",
+       "seoname":"Network-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"31",
+       "designation_name":"Network Engineer",
+       "seoname":"Network-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"483",
+       "designation_name":"Network Security Administrator",
+       "seoname":"Network-Security-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"307",
+       "designation_name":"Network Security Engineer",
+       "seoname":"Network-Security-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"285",
+       "designation_name":"Network Support Engineer",
+       "seoname":"Network-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"378",
+       "designation_name":"Network Technician",
+       "seoname":"Network-Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"217",
+       "designation_name":"News Anchor",
+       "seoname":"News-Anchor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"63",
+       "designation_name":"News Reader",
+       "seoname":"News-Reader",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"109",
+       "designation_name":"Nurse",
+       "seoname":"Nurse",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"110",
+       "designation_name":"Nursery Teacher",
+       "seoname":"Nursery-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"379",
+       "designation_name":"Office Administrator",
+       "seoname":"Office-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"32",
+       "designation_name":"Office Assistant",
+       "seoname":"Office-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"339",
+       "designation_name":"Office Coordinator",
+       "seoname":"Office-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"484",
+       "designation_name":"Online Marketing Executive",
+       "seoname":"Online-Marketing-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"50",
+       "designation_name":"Online Tutor",
+       "seoname":"Online-Tutor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"144",
+       "designation_name":"Operation Executive",
+       "seoname":"Operation-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"218",
+       "designation_name":"Operations Manager",
+       "seoname":"Operations-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"178",
+       "designation_name":"Oracle Apps Technical Consultant",
+       "seoname":"Oracle-Apps-Technical-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"18",
+       "designation_name":"Oracle DBA",
+       "seoname":"Oracle-DBA",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"179",
+       "designation_name":"Oracle Developer",
+       "seoname":"Oracle-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"286",
+       "designation_name":"Oracle Functional Consultant",
+       "seoname":"Oracle-Functional-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"485",
+       "designation_name":"Oracle Programmer",
+       "seoname":"Oracle-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"111",
+       "designation_name":"Patent Analyst",
+       "seoname":"Patent-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"486",
+       "designation_name":"Peoplesoft Developer",
+       "seoname":"Peoplesoft-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"145",
+       "designation_name":"Perfusionist",
+       "seoname":"Perfusionist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"87",
+       "designation_name":"Personal Assistant",
+       "seoname":"Personal-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"180",
+       "designation_name":"Personal Secretary",
+       "seoname":"Personal-Secretary",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"19",
+       "designation_name":"Pharmacist",
+       "seoname":"Pharmacist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"308",
+       "designation_name":"Phone Banking Officer",
+       "seoname":"Phone-Banking-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"41",
+       "designation_name":"Photographer",
+       "seoname":"Photographer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"51",
+       "designation_name":"PHP Developer",
+       "seoname":"PHP-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"309",
+       "designation_name":"PHP Programmer",
+       "seoname":"PHP-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"25",
+       "designation_name":"Physical Education Teacher",
+       "seoname":"Physical-Education-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"251",
+       "designation_name":"Physics Teacher",
+       "seoname":"Physics-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"88",
+       "designation_name":"Physiotherapist",
+       "seoname":"Physiotherapist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"89",
+       "designation_name":"Piping Designer",
+       "seoname":"Piping-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"42",
+       "designation_name":"Piping Engineer",
+       "seoname":"Piping-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"181",
+       "designation_name":"Piping Stress Engineer",
+       "seoname":"Piping-Stress-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"182",
+       "designation_name":"Piping Supervisor",
+       "seoname":"Piping-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"146",
+       "designation_name":"PL\/SQL Developer",
+       "seoname":"PL-SQL-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"487",
+       "designation_name":"PL\/SQL Programmer",
+       "seoname":"PL-SQL-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"252",
+       "designation_name":"Placement Officer",
+       "seoname":"Placement-Officer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"112",
+       "designation_name":"Planning Engineer",
+       "seoname":"Planning-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"488",
+       "designation_name":"PPC Executive",
+       "seoname":"PPC-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"253",
+       "designation_name":"Press Reporter",
+       "seoname":"Press-Reporter",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"310",
+       "designation_name":"Probationary Officer",
+       "seoname":"Probationary-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"113",
+       "designation_name":"Process Engineer",
+       "seoname":"Process-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"489",
+       "designation_name":"Product Development Manager",
+       "seoname":"Product-Development-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"311",
+       "designation_name":"Product Executive",
+       "seoname":"Product-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"147",
+       "designation_name":"Product Manager",
+       "seoname":"Product-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"490",
+       "designation_name":"Product Support Engineer",
+       "seoname":"Product-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"73",
+       "designation_name":"Production Engineer",
+       "seoname":"Production-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"183",
+       "designation_name":"Production Manager",
+       "seoname":"Production-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"184",
+       "designation_name":"Production Supervisor",
+       "seoname":"Production-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"491",
+       "designation_name":"Programming Head",
+       "seoname":"Programming-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"492",
+       "designation_name":"Programming Manager",
+       "seoname":"Programming-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"254",
+       "designation_name":"Project Associate",
+       "seoname":"Project-Associate",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"90",
+       "designation_name":"Project Coordinator",
+       "seoname":"Project-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"91",
+       "designation_name":"Project Engineer",
+       "seoname":"Project-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"493",
+       "designation_name":"Project Head",
+       "seoname":"Project-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"494",
+       "designation_name":"Project Leader",
+       "seoname":"Project-Leader",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"64",
+       "designation_name":"Project Manager",
+       "seoname":"Project-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"185",
+       "designation_name":"Public Relation Officer",
+       "seoname":"Public-Relation-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"148",
+       "designation_name":"Purchase Executive",
+       "seoname":"Purchase-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"149",
+       "designation_name":"Purchase Manager",
+       "seoname":"Purchase-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"150",
+       "designation_name":"Quality Analyst",
+       "seoname":"Quality-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"380",
+       "designation_name":"Quality Assurance Engineer",
+       "seoname":"Quality-Assurance-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"381",
+       "designation_name":"Quality Assurance Manager",
+       "seoname":"Quality-Assurance-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"495",
+       "designation_name":"Quality Assurance Officer",
+       "seoname":"Quality-Assurance-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"496",
+       "designation_name":"Quality Assurance Tester",
+       "seoname":"Quality-Assurance-Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"287",
+       "designation_name":"Quality Control Engineer",
+       "seoname":"Quality-Control-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"497",
+       "designation_name":"Quality Control Executive",
+       "seoname":"Quality-Control-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"498",
+       "designation_name":"Quality Control Manager",
+       "seoname":"Quality-Control-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"312",
+       "designation_name":"Quality Controller",
+       "seoname":"Quality-Controller",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"151",
+       "designation_name":"Quality Engineer",
+       "seoname":"Quality-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"499",
+       "designation_name":"Quality Head",
+       "seoname":"Quality-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"65",
+       "designation_name":"Quantity Surveyor",
+       "seoname":"Quantity-Surveyor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"33",
+       "designation_name":"Radio Jockey",
+       "seoname":"Radio-Jockey",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"219",
+       "designation_name":"Radio Operator",
+       "seoname":"Radio-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"152",
+       "designation_name":"Radiologist",
+       "seoname":"Radiologist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"11",
+       "designation_name":"Receptionist",
+       "seoname":"Receptionist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"500",
+       "designation_name":"Regional Business Manager",
+       "seoname":"Regional-Business-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"501",
+       "designation_name":"Regional Marketing Manager",
+       "seoname":"Regional-Marketing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"502",
+       "designation_name":"Regional Sales Executive",
+       "seoname":"Regional-Sales-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"313",
+       "designation_name":"Regional Sales Manager",
+       "seoname":"Regional-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"576",
+       "designation_name":"Regional Sales Officer",
+       "seoname":"Regional-Sales-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"340",
+       "designation_name":"Registrar",
+       "seoname":"Registrar",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"255",
+       "designation_name":"Relationship Manager",
+       "seoname":"Relationship-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"186",
+       "designation_name":"Reporter",
+       "seoname":"Reporter",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"74",
+       "designation_name":"Research Analyst",
+       "seoname":"Research-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"66",
+       "designation_name":"Research Assistant",
+       "seoname":"Research-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"52",
+       "designation_name":"Research Associate",
+       "seoname":"Research-Associate",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"382",
+       "designation_name":"Research Engineer",
+       "seoname":"Research-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"314",
+       "designation_name":"Research Officer",
+       "seoname":"Research-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"220",
+       "designation_name":"Research Scientist",
+       "seoname":"Research-Scientist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"256",
+       "designation_name":"Restaurant Manager",
+       "seoname":"Restaurant-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"341",
+       "designation_name":"Retail Manager",
+       "seoname":"Retail-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"503",
+       "designation_name":"Retail Sales Manager",
+       "seoname":"Retail-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"257",
+       "designation_name":"Retail Store Manager",
+       "seoname":"Retail-Store-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"67",
+       "designation_name":"RF Engineer",
+       "seoname":"RF-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"92",
+       "designation_name":"Safety Engineer",
+       "seoname":"Safety-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"12",
+       "designation_name":"Safety Officer",
+       "seoname":"Safety-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"114",
+       "designation_name":"Safety Supervisor",
+       "seoname":"Safety-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"504",
+       "designation_name":"Sales & Marketing Manager",
+       "seoname":"Sales-Marketing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"577",
+       "designation_name":"Sales Accounts Manager",
+       "seoname":"Sales-Accounts-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"75",
+       "designation_name":"Sales Coordinator",
+       "seoname":"Sales-Coordinator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"153",
+       "designation_name":"Sales Engineer",
+       "seoname":"Sales-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"53",
+       "designation_name":"Sales Executive",
+       "seoname":"Sales-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"505",
+       "designation_name":"Sales Head",
+       "seoname":"Sales-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"154",
+       "designation_name":"Sales Manager",
+       "seoname":"Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"506",
+       "designation_name":"Sales Officer",
+       "seoname":"Sales-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"383",
+       "designation_name":"SAP ABAP Consultant",
+       "seoname":"SAP-ABAP-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"507",
+       "designation_name":"SAP ABAP Programmer",
+       "seoname":"SAP-ABAP-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"315",
+       "designation_name":"SAP Basis Consultant",
+       "seoname":"SAP-Basis-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"258",
+       "designation_name":"SAP Consultant",
+       "seoname":"SAP-Consultant",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"259",
+       "designation_name":"SAP CRM Functional Consultant",
+       "seoname":"SAP-CRM-Functional-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"288",
+       "designation_name":"SAP Fico Consultant",
+       "seoname":"SAP-Fico-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"342",
+       "designation_name":"SAP Functional Consultant",
+       "seoname":"SAP-Functional-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"343",
+       "designation_name":"SAP Operator",
+       "seoname":"SAP-Operator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"260",
+       "designation_name":"SAP Project Manager",
+       "seoname":"SAP-Project-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"316",
+       "designation_name":"SAP Trainee",
+       "seoname":"SAP-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"93",
+       "designation_name":"SAS Programmer",
+       "seoname":"SAS-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"221",
+       "designation_name":"Scientific Officer",
+       "seoname":"Scientific-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"289",
+       "designation_name":"Script Writer",
+       "seoname":"Script-Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"384",
+       "designation_name":"Search Engine Optimizer",
+       "seoname":"Search-Engine-Optimizer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"94",
+       "designation_name":"Secretary",
+       "seoname":"Secretary",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"95",
+       "designation_name":"Security Manager",
+       "seoname":"Security-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"23",
+       "designation_name":"Security Officer",
+       "seoname":"Security-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"155",
+       "designation_name":"Security Supervisor",
+       "seoname":"Security-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"385",
+       "designation_name":"Senior Accountant",
+       "seoname":"Senior-Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"578",
+       "designation_name":"Senior Area Sales Executive",
+       "seoname":"Senior-Area-Sales-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"579",
+       "designation_name":"Senior Area Sales Manager",
+       "seoname":"Senior-Area-Sales-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"580",
+       "designation_name":"Senior Branch Manager",
+       "seoname":"Senior-Branch-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"508",
+       "designation_name":"Senior Brand Manager",
+       "seoname":"Senior-Brand-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"386",
+       "designation_name":"Senior Business Analyst",
+       "seoname":"Senior-Business-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"581",
+       "designation_name":"Senior Business Development Executive",
+       "seoname":"Senior-Business-Development-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"509",
+       "designation_name":"Senior Business Development Manager",
+       "seoname":"Senior-Business-Development-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"582",
+       "designation_name":"Senior Content Writer",
+       "seoname":"Senior-Content-Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"583",
+       "designation_name":"Senior Customer Care Executive",
+       "seoname":"Senior-Customer-Care-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"584",
+       "designation_name":"Senior Customer Care Officer",
+       "seoname":"Senior-Customer-Care-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"585",
+       "designation_name":"Senior Database Administrator",
+       "seoname":"Senior-Database-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"510",
+       "designation_name":"Senior Developer",
+       "seoname":"Senior-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"317",
+       "designation_name":"Senior Executive",
+       "seoname":"Senior-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"511",
+       "designation_name":"Senior Finance Manager",
+       "seoname":"Senior-Finance-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"586",
+       "designation_name":"Senior Flash Programmer",
+       "seoname":"Senior-Flash-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"387",
+       "designation_name":"Senior Graphic Designer",
+       "seoname":"Senior-Graphic-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"512",
+       "designation_name":"Senior Hardware Engineer",
+       "seoname":"Senior-Hardware-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"513",
+       "designation_name":"Senior Interior Designer",
+       "seoname":"Senior-Interior-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"514",
+       "designation_name":"Senior Java Developer",
+       "seoname":"Senior-Java-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"587",
+       "designation_name":"Senior Manager Human Resources",
+       "seoname":"Senior-Manager-Human-Resources",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"588",
+       "designation_name":"Senior Manager Marketing",
+       "seoname":"Senior-Manager-Marketing",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"515",
+       "designation_name":"Senior Manager Operations",
+       "seoname":"Senior-Manager-Operations",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"516",
+       "designation_name":"Senior Marketing Executive",
+       "seoname":"Senior-Marketing-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"517",
+       "designation_name":"Senior Network Engineer",
+       "seoname":"Senior-Network-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"589",
+       "designation_name":"Senior Networks Engineer",
+       "seoname":"Senior-Networks-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"518",
+       "designation_name":"Senior PHP Programmer",
+       "seoname":"Senior-PHP-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"519",
+       "designation_name":"Senior Product Manager",
+       "seoname":"Senior-Product-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"520",
+       "designation_name":"Senior Programmer",
+       "seoname":"Senior-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"521",
+       "designation_name":"Senior Project Engineer",
+       "seoname":"Senior-Project-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"590",
+       "designation_name":"Senior Project Leader",
+       "seoname":"Senior-Project-Leader",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"522",
+       "designation_name":"Senior Project Manager",
+       "seoname":"Senior-Project-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"591",
+       "designation_name":"Senior Quality Assurance Manager",
+       "seoname":"Senior-Quality-Assurance-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"523",
+       "designation_name":"Senior Relationship Manager",
+       "seoname":"Senior-Relationship-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"592",
+       "designation_name":"Senior Sales & Marketing Manager",
+       "seoname":"Senior-Sales-Marketing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"524",
+       "designation_name":"Senior Sales Executive",
+       "seoname":"Senior-Sales-Executive",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"593",
+       "designation_name":"Senior Sales Officer",
+       "seoname":"Senior-Sales-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"594",
+       "designation_name":"Senior Search Engine Optimizer",
+       "seoname":"Senior-Search-Engine-Optimizer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"525",
+       "designation_name":"Senior SEO Executive",
+       "seoname":"Senior-SEO-Executive",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"526",
+       "designation_name":"Senior Software Developer",
+       "seoname":"Senior-Software-Developer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"527",
+       "designation_name":"Senior Software Engineer",
+       "seoname":"Senior-Software-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"595",
+       "designation_name":"Senior Software Programmer",
+       "seoname":"Senior-Software-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"528",
+       "designation_name":"Senior Software Tester",
+       "seoname":"Senior-Software-Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"596",
+       "designation_name":"Senior Technical Support Officer",
+       "seoname":"Senior-Technical-Support-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"529",
+       "designation_name":"Senior Web Designer",
+       "seoname":"Senior-Web-Designer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"530",
+       "designation_name":"Senior Web Developer",
+       "seoname":"Senior-Web-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"344",
+       "designation_name":"SEO Analyst",
+       "seoname":"SEO-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"318",
+       "designation_name":"SEO Executive",
+       "seoname":"SEO-Executive",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"531",
+       "designation_name":"SEO Expert",
+       "seoname":"SEO-Expert",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"345",
+       "designation_name":"SEO Manager",
+       "seoname":"SEO-Manager",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"532",
+       "designation_name":"SEO Specialist",
+       "seoname":"SEO-Specialist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"533",
+       "designation_name":"SEO Team Leader",
+       "seoname":"SEO-Team-Leader",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"388",
+       "designation_name":"SEO Trainee",
+       "seoname":"SEO-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"54",
+       "designation_name":"Service Engineer",
+       "seoname":"Service-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"319",
+       "designation_name":"Site Accountant",
+       "seoname":"Site-Accountant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"68",
+       "designation_name":"Site Engineer",
+       "seoname":"Site-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"398",
+       "designation_name":"site engineering",
+       "seoname":"site-engineering",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"187",
+       "designation_name":"Site Supervisor",
+       "seoname":"Site-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"222",
+       "designation_name":"Soft Skills Trainer",
+       "seoname":"Soft-Skills-Trainer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"76",
+       "designation_name":"Software Developer",
+       "seoname":"Software-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"96",
+       "designation_name":"Software Engineer",
+       "seoname":"Software-Engineer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"534",
+       "designation_name":"Software Engineer Trainee",
+       "seoname":"Software-Engineer-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"389",
+       "designation_name":"Software Programmer",
+       "seoname":"Software-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"535",
+       "designation_name":"Software Quality Engineer",
+       "seoname":"Software-Quality-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"536",
+       "designation_name":"Software Support Engineer",
+       "seoname":"Software-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"320",
+       "designation_name":"Software Test Engineer",
+       "seoname":"Software-Test-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"223",
+       "designation_name":"Software Tester",
+       "seoname":"Software-Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"346",
+       "designation_name":"Software Trainee",
+       "seoname":"Software-Trainee",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"537",
+       "designation_name":"Software Trainer",
+       "seoname":"Software-Trainer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"115",
+       "designation_name":"Sound Engineer",
+       "seoname":"Sound-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"347",
+       "designation_name":"Sports Officer",
+       "seoname":"Sports-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"13",
+       "designation_name":"Stenographer",
+       "seoname":"Stenographer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"156",
+       "designation_name":"Store Incharge",
+       "seoname":"Store-Incharge",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"97",
+       "designation_name":"Store Manager",
+       "seoname":"Store-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"348",
+       "designation_name":"Structural Design Engineer",
+       "seoname":"Structural-Design-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"224",
+       "designation_name":"Structural Engineer",
+       "seoname":"Structural-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"26",
+       "designation_name":"Supervisor",
+       "seoname":"Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"390",
+       "designation_name":"Supply Chain Manager",
+       "seoname":"Supply-Chain-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"34",
+       "designation_name":"Surveyor",
+       "seoname":"Surveyor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"20",
+       "designation_name":"System Administrator",
+       "seoname":"System-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"261",
+       "designation_name":"System Analyst",
+       "seoname":"System-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"157",
+       "designation_name":"System Engineer",
+       "seoname":"System-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"391",
+       "designation_name":"System Support Engineer",
+       "seoname":"System-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"392",
+       "designation_name":"Tax Consultant",
+       "seoname":"Tax-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"14",
+       "designation_name":"Teacher",
+       "seoname":"Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"188",
+       "designation_name":"Technical Analyst",
+       "seoname":"Technical-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"98",
+       "designation_name":"Technical Assistant",
+       "seoname":"Technical-Assistant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"393",
+       "designation_name":"Technical Engineer",
+       "seoname":"Technical-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"262",
+       "designation_name":"Technical Support Engineer",
+       "seoname":"Technical-Support-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"349",
+       "designation_name":"Technical Support Executive",
+       "seoname":"Technical-Support-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"99",
+       "designation_name":"Technical Writer",
+       "seoname":"Technical-Writer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"35",
+       "designation_name":"Technician",
+       "seoname":"Technician",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"158",
+       "designation_name":"Telecaller",
+       "seoname":"Telecaller",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"394",
+       "designation_name":"Tester",
+       "seoname":"Tester",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"538",
+       "designation_name":"Testing Manager",
+       "seoname":"Testing-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"77",
+       "designation_name":"Textile Designer",
+       "seoname":"Textile-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"189",
+       "designation_name":"Tour Manager",
+       "seoname":"Tour-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"225",
+       "designation_name":"Trainer",
+       "seoname":"Trainer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"116",
+       "designation_name":"Translator",
+       "seoname":"Translator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"263",
+       "designation_name":"Travel Consultant",
+       "seoname":"Travel-Consultant",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"264",
+       "designation_name":"TV Anchor",
+       "seoname":"TV-Anchor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"78",
+       "designation_name":"Typist",
+       "seoname":"Typist",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"265",
+       "designation_name":"UI Designer",
+       "seoname":"UI-Designer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"117",
+       "designation_name":"UI Developer",
+       "seoname":"UI-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"395",
+       "designation_name":"Unix Administrator",
+       "seoname":"Unix-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"539",
+       "designation_name":"VB Programmer",
+       "seoname":"VB-Programmer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"118",
+       "designation_name":"Video Editor",
+       "seoname":"Video-Editor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"540",
+       "designation_name":"Visual Designer",
+       "seoname":"Visual-Designer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"266",
+       "designation_name":"Visual Merchandiser",
+       "seoname":"Visual-Merchandiser",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"541",
+       "designation_name":"VLSI Engineer",
+       "seoname":"VLSI-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"553",
+       "designation_name":"vp engineering",
+       "seoname":"vp-engineering",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"542",
+       "designation_name":"VP Finance",
+       "seoname":"VP-Finance",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"399",
+       "designation_name":"vp hr",
+       "seoname":"vp-hr",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"543",
+       "designation_name":"VP Human Resources",
+       "seoname":"VP-Human-Resources",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"544",
+       "designation_name":"VP IT",
+       "seoname":"VP-IT",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"545",
+       "designation_name":"VP Marketing",
+       "seoname":"VP-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"546",
+       "designation_name":"VP Operations",
+       "seoname":"VP-Operations",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"350",
+       "designation_name":"VP Sales",
+       "seoname":"VP-Sales",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"597",
+       "designation_name":"VP Sales & Marketing",
+       "seoname":"VP-Sales-Marketing",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"321",
+       "designation_name":"Warehouse Executive",
+       "seoname":"Warehouse-Executive",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"226",
+       "designation_name":"Warehouse Manager",
+       "seoname":"Warehouse-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"547",
+       "designation_name":"Warehouse Officer",
+       "seoname":"Warehouse-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"351",
+       "designation_name":"Warehouse Supervisor",
+       "seoname":"Warehouse-Supervisor",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"396",
+       "designation_name":"Web Analyst",
+       "seoname":"Web-Analyst",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"43",
+       "designation_name":"Web Designer",
+       "seoname":"Web-Designer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"55",
+       "designation_name":"Web Developer",
+       "seoname":"Web-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"548",
+       "designation_name":"Web Developer Trainee",
+       "seoname":"Web-Developer-Trainee",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"549",
+       "designation_name":"Web Programmer",
+       "seoname":"Web-Programmer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"550",
+       "designation_name":"Weblogic Administrator",
+       "seoname":"Weblogic-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"352",
+       "designation_name":"Website Designer",
+       "seoname":"Website-Designer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"551",
+       "designation_name":"Website Developer",
+       "seoname":"Website-Developer",
+       "footer":"Y",
+       "status":"active"
+    },
+    {
+       "designation_id":"397",
+       "designation_name":"Websphere Administrator",
+       "seoname":"Websphere-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"190",
+       "designation_name":"Welding Engineer",
+       "seoname":"Welding-Engineer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"191",
+       "designation_name":"Welfare Officer",
+       "seoname":"Welfare-Officer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"227",
+       "designation_name":"Windows Administrator",
+       "seoname":"Windows-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"119",
+       "designation_name":"Windows System Administrator",
+       "seoname":"Windows-System-Administrator",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"228",
+       "designation_name":"Writer",
+       "seoname":"Writer",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"120",
+       "designation_name":"Yoga Teacher",
+       "seoname":"Yoga-Teacher",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"598",
+       "designation_name":"Zonal Business Manager",
+       "seoname":"Zonal-Business-Manager",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"599",
+       "designation_name":"Zonal Head",
+       "seoname":"Zonal-Head",
+       "footer":"N",
+       "status":"active"
+    },
+    {
+       "designation_id":"600",
+       "designation_name":"Zonal Security Officer",
+       "seoname":"Zonal-Security-Officer",
+       "footer":"N",
+       "status":"active"
+    }
+ ]
